@@ -1,0 +1,7 @@
+{
+  "name": "KFCAPP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
